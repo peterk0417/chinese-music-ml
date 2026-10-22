@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper."
+title: "Chinese Musical Instrument Classification and Music Generation"
+type: software
+authors:
+  - family-names: Kwak
+    given-names: Joonho
+year: 2024
+doi: 10.34614/JIYRC202418
+url: "https://journal.the-iyrc.org/jiyrc18-joonho-kwak.html"

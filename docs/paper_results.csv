@@ -1,0 +1,15 @@
+model,paper_testing_accuracy
+Keras Sequential Model,0.992
+kNN,0.986
+CNN + LSTM,0.981
+Random Forest,0.98
+CNN + LSTM (deeper),0.978
+XGB Classifier,0.966
+Bidirectional LSTM,0.964
+Model with Conv2D,0.941
+Logistic Regression,0.934
+SVC,0.908
+LSTM,0.825
+XGBRF,0.683
+SGD Classifier,0.657
+kMeans Clustering,0.337

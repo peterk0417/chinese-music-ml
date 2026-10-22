@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Large/raw data
+data/raw/
+data/new_features_3sec.csv
+*.wav
+*.mp3
+
+# Generated models
+*.keras
+*.h5
+checkpoints/
